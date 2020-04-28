@@ -1,6 +1,6 @@
-## Cloud Computing Resources 
+# Cloud Computing Resources 
 
-# Research Papers:  
+## Research Paper Links  
 
 Bigtable: A Distributed Storage System for Structured Data  
 https://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf (Links to an external site)  
